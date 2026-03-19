@@ -1,4 +1,4 @@
-## Hi :)
+# Welcome to my page!
 
 # 💫 About Me:
 Hi, I’m Suha 👋<br><br>I’m a penultimate-year Software Engineering student at RMIT University with a strong passion for building real-world, scalable applications. I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects and practical experience.<br><br>I have experience working across both front-end and back-end development, with a focus on creating clean, responsive, and user-friendly interfaces alongside efficient and well-structured systems.<br>
